@@ -5,7 +5,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/Exam01")
+@RequestMapping("/ex01")
 public class Exam01Controller {
 
 	@RequestMapping("")
